@@ -1,0 +1,34 @@
+.container{
+    font-size: 0.5rem;
+    background-color: rgb(150, 29, 150);
+    width: fit-content;
+    padding: 0.5rem;
+    border-radius: 10PX;
+    text-shadow: 5px 5px 6px rgba(0,0,0,0.6) ;
+    margin: 3rem;
+}
+
+.img{
+    width: 15rem;
+}
+
+.nombre{
+    font-size: medium;
+    color: rgb(135, 189, 55);
+}
+
+.x{
+    border: none;
+    box-shadow: 5px 5px 6px rgba(0,0,0,0.6);
+    border-radius: 1rem;
+    background-color: chartreuse;
+    cursor: pointer;
+    transition: background-color 0.2s ease-out;
+}
+
+.x:hover{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; 
+   background-color: rgb(23, 179, 23);
+   font-size: 1rem;
+   border: none;
+}

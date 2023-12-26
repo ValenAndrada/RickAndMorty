@@ -1,0 +1,6 @@
+.contenedorDeCard{
+    flex-direction: row;
+    display: flex;
+    width: 130%;
+    padding-top: 3rem;
+}

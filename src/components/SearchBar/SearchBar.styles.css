@@ -1,0 +1,32 @@
+.nav{
+    padding-bottom: 3rem;
+}
+
+
+
+
+.boton{
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    padding: 0.5rem;
+    transition: background-color 1s ease-out;
+    text-align: center;
+    background-color: #9000bc;
+    margin-top: 3.1rem;
+    font-size: 1rem;
+}
+
+.boton:hover{
+    background-color: rgb(72, 243, 56);
+    cursor: pointer;
+    border-radius: 15%;  
+}
+
+.buscador{
+    border: none;
+    margin-top: 3rem;
+    background-color: rgb(212, 233, 222);
+    padding: 0.4rem;
+    font-size: 1.1rem;
+    border-radius: 0.1rem;
+}

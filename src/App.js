@@ -7,7 +7,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import About from './components/About.jsx';
 import Detail from './components/Detail.jsx';
 
-
+//holi
 function App() {
 
    const[characters, setCharacters] = useState([]);   //estado
